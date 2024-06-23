@@ -21,7 +21,7 @@ namespace ListCustomObjects
             List<Book> books = new List<Book>
             {
              new Book("Far From The End", "Lilian Chidiogo Ezejelue"),
-             new Book("Purple Hibiscus", "Chimanda Ngozi Adichie"),
+             new Book("Purple Hibiscus", "Chimamanda Ngozi Adichie"),
              new Book("Born On A Tuesday", "Elnathan John"),
             };
 
